@@ -18,7 +18,7 @@ bullet_point_box = slide2.shapes
 bullet_point_level1 = bullet_point_box.placeholders[1]
 bullet_point_level1.text = "First Bullet Point"
 bullet_point_level2 = bullet_point_level1.text_frame.add_paragraph()
-bullet_point_level2.text = "Sub level Second Bullet"
+bullet_point_level2.text = "Second Bullet"
 bullet_point_level2.level = 1 
 
 
